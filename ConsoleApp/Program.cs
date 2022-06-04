@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Nika!");
+Console.WriteLine("Hello, 5 times!");
+Console.WriteLine("Hello, 5 times!");
+Console.WriteLine("Hello, 5 times!");
+Console.WriteLine("Hello, 5 times!");
+Console.WriteLine("Hello, 5 times!");
+Console.WriteLine("What's up?");
